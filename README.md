@@ -8,7 +8,7 @@ This assignment will have you practice how to read input from a joystick and pri
 
 ## ***Robot Code Requirements***
 
-- Create Joysticks object called `mainController` in RobotContainer.java
+- Create `XboxController​` object called `mainController` in RobotContainer.java
 - Use `'::'` to refer to the joystick value that is constantly updated
 - Put the value of `mainContoller` in real time to the SmartDashboard.
 
