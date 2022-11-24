@@ -10,7 +10,7 @@ This assignment will have you practice how to read input from a joystick and pri
 
 - Create [`XboxController​`](https://docs.wpilib.org/en/stable/docs/software/basic-programming/joystick.html?highlight=xboxcontroller#xboxcontroller-class) object called `mainController` in RobotContainer.java
 	- [More](https://github.com/MillenniumFalcons/2022-RapidReact/blob/main/src/main/java/team3647/lib/inputs/Joysticks.java) on how to use XboxController
-- Use `'::'` to refer to the joystick value that is constantly updated
+- Use `::` to refer to the joystick value that is constantly updated
 - Print the value of `mainContoller` in real time with `System.out.println();`
 
 ## ***Authors***
